@@ -1,0 +1,24 @@
+.cal-body {
+	background-color: #BDBDBD;
+	height: 350px;
+	margin-top: 20px;
+}
+.cal-rows {
+	margin: 10px 0px 10px 0px;
+	text-align: center;
+}
+.elements-style {
+	height: 50px;
+	margin: 0px 10px 0px 10px;
+}
+.clear-btn {
+	background-color: #0092CF;
+}
+.answer {
+	background-color: #000000;
+	color: #ffffff;
+	text-align: right;
+}
+.num-btn {
+	background-color: #FF8D00;
+}
